@@ -1,5 +1,6 @@
 {
   "version": "0.0.3",
-  "message": "https://t.me/MariamInitiative",
+  "message_ar": "رسالة التحديث بالعربي. يدعم الروابط العادية."
+  "message": "Normal txt",
   "download_url": "https://github.com/nitpacker/rufoof-releases/releases/download/v0.0.3/rufoof_V0.0.3.exe"
 }

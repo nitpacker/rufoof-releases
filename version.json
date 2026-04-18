@@ -1,5 +1,6 @@
 {
-  "version": "0.0.3",
-  "message": "text and url www.margeit.com",
-  "download_url": "https://github.com/nitpacker/rufoof-releases/releases/download/v0.0.3/rufoof_V0.0.3.exe"
+  "version": "0.0.4",
+  "message_ar": "تجربة رسالة تحديث عربي www.t.me/MariamInitiative",
+  "message": "Testing EN updt msg www.t.me/MariamInitiative",
+  "download_url": "https://github.com/nitpacker/rufoof-releases/releases/download/v0.0.4/rufoof_V0.0.4.exe"
 }

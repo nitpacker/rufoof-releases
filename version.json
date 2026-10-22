@@ -1,7 +1,7 @@
 {
   "version": "2.0.2",
-  "message_ar": "إصلاحات خفيفة في واجهة المستخدم وطريقة عرض الملفات",
-  "message": "Minor fixes in user interface and file delivery logic",
+  "message_ar": "إصلاح مشكلة في رفع الملفات الكبيرة",
+  "message": "Fix for large files upload",
   "download_url": "https://github.com/nitpacker/rufoof-releases/releases/download/2.0.2/rufoof_V2.0.2.exe",
   "download_url_mac_intel": "https://github.com/nitpacker/rufoof-releases/releases/download/1.0.0/rufoof_V1.0.0_mac_intel.dmg",
   "download_url_mac_arm": "https://github.com/nitpacker/rufoof-releases/releases/download/2.0.2/rufoof_V2.0.2_mac_arm.dmg"
